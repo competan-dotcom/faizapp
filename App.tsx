@@ -283,7 +283,7 @@ function App() {
         <div className="mt-20 flex flex-col items-center gap-4 animate-in fade-in duration-1000 delay-300">
            
            <p className="text-slate-400 text-sm md:text-base font-medium text-center whitespace-nowrap mx-auto">
-             [Tümüyle valide edilmiştir. Resmi ya da Ticari amaçlı kullanılamaz.]
+             [Tümüyle valide edilmiştir. Resmi&Ticari amaçlı kullanılamaz.]
            </p>
 
            <footer className="pb-8 text-center">
